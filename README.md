@@ -1,4 +1,5 @@
 # QR-Code-Generator
 This is Project for generating QR Code
 
-visit : https://prajwal-r-h.github.io/QR-Code-Generator/
+
+### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://prajwal-r-h.github.io/QR-Code-Generator/)
