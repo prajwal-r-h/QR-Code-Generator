@@ -11,7 +11,8 @@ body{
   padding: 0 10px;
   min-height: 100vh;
   align-items: center;
-  background: #3498DB;
+  /*background: #3498DB;*/
+  background: red;
   justify-content: center;
 }
 ::selection{
